@@ -1,0 +1,154 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="第 1 页" id="kSS0RtlIHPGh7o-XwPyQ">
+    <mxGraphModel dx="1018" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="120" pageHeight="200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="45" width="110" x="190" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="展示层" vertex="1">
+          <mxGeometry height="60" width="80" x="80" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Nginx" vertex="1">
+          <mxGeometry height="60" width="160" x="190" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="领域层" vertex="1">
+          <mxGeometry height="180" width="80" x="80" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="350" x="190" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AI办案工作台" vertex="1">
+          <mxGeometry height="50" width="134" x="380" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="共享法庭系统" vertex="1">
+          <mxGeometry height="30" width="100" x="234" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="基础设施层" vertex="1">
+          <mxGeometry height="130" width="80" x="80" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="350" x="190" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="接入层" vertex="1">
+          <mxGeometry height="60" width="80" x="80" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="API网关" vertex="1">
+          <mxGeometry height="60" width="160" x="380" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Docker" vertex="1">
+          <mxGeometry height="50" width="80" x="210" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="490" width="110" x="560" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="支撑服务" vertex="1">
+          <mxGeometry height="30" width="60" x="585" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Git" vertex="1">
+          <mxGeometry height="50" width="85" x="572.5" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Maven" vertex="1">
+          <mxGeometry height="50" width="85" x="572.5" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gitlab&lt;div&gt;Runner&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="85" x="572.5" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OpenFeign" vertex="1">
+          <mxGeometry height="50" width="85" x="572.5" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="80" x="190" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="权限控制" vertex="1">
+          <mxGeometry height="45" width="60" x="200" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="身份识别" vertex="1">
+          <mxGeometry height="45" width="60" x="200" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="用户模块" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="共享法庭" vertex="1">
+          <mxGeometry height="50" width="85" x="572.5" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="180" width="80" x="370" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="案件拉取" vertex="1">
+          <mxGeometry height="45" width="60" x="380" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="案件筛选" vertex="1">
+          <mxGeometry height="45" width="60" x="380" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="案件管理" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="材料编目" vertex="1">
+          <mxGeometry height="45" width="60" x="380" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="180" width="80" x="460" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="新增模版" vertex="1">
+          <mxGeometry height="45" width="60" x="470" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="删除模版" vertex="1">
+          <mxGeometry height="45" width="60" x="470" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="要素模版" vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="修改模版" vertex="1">
+          <mxGeometry height="45" width="60" x="470" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="180" width="80" x="280" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="要素提取" vertex="1">
+          <mxGeometry height="45" width="60" x="290" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="案情摘要" vertex="1">
+          <mxGeometry height="45" width="60" x="290" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="案件分析" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="争议焦点" vertex="1">
+          <mxGeometry height="45" width="60" x="290" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OSS" vertex="1">
+          <mxGeometry height="50" width="85" x="572.5" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OCR" vertex="1">
+          <mxGeometry height="50" width="85" x="572.5" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="110" width="130" x="390" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Bailing" vertex="1">
+          <mxGeometry height="40" width="90" x="410" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Qwen-1.5-110B" vertex="1">
+          <mxGeometry height="40" width="90" x="410" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LLM" vertex="1">
+          <mxGeometry height="30" width="60" x="421" y="467" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=light-dark(#ffffff, #ededed);strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="43" width="30" x="259" y="396" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="报告导出" vertex="1">
+          <mxGeometry height="35" width="60" x="200" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="分布式缓存" vertex="1">
+          <mxGeometry height="50" width="80" x="300" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="EmrEEtxNcfCAcZxmF7IF-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="分布式数据库" vertex="1">
+          <mxGeometry height="50" width="80" x="210" y="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
