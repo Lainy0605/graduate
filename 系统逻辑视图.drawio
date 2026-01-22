@@ -1,9 +1,93 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="第 1 页" id="tEg-is9C3woQbXJulioM">
-    <mxGraphModel>
+    <mxGraphModel dx="898" dy="1177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="120" pageHeight="200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZM472__LP2MkJYghmWNF-18" edge="1" parent="1" source="ZM472__LP2MkJYghmWNF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" target="ZM472__LP2MkJYghmWNF-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="20" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-19" connectable="0" parent="ZM472__LP2MkJYghmWNF-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="管理配置" vertex="1">
+          <mxGeometry relative="1" x="-0.0732" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-2" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#E2E2E2;" value="共享法庭系统" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="-350" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-3" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="要素模版管理模块" vertex="1">
+          <mxGeometry height="90" width="160" x="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-4" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="案件分析模块" vertex="1">
+          <mxGeometry height="80" width="120" x="430" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-7" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="案件管理模块" vertex="1">
+          <mxGeometry height="80" width="120" x="440" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-8" edge="1" parent="1" source="ZM472__LP2MkJYghmWNF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" target="ZM472__LP2MkJYghmWNF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-9" connectable="0" parent="ZM472__LP2MkJYghmWNF-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="拉取案件数据" vertex="1">
+          <mxGeometry relative="1" x="-0.6818" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-10" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="用户模块" vertex="1">
+          <mxGeometry height="80" width="120" x="210" y="-180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-13" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=light-dark(#e2e2e2, #ededed);" value="大语言模型" vertex="1">
+          <mxGeometry height="80" width="120" x="650" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-20" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=light-dark(#e2e2e2, #ededed);" value="第三方服务" vertex="1">
+          <mxGeometry height="80" width="120" x="630" y="-290" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-21" edge="1" parent="1" source="ZM472__LP2MkJYghmWNF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.88;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" target="ZM472__LP2MkJYghmWNF-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="-150" />
+              <mxPoint x="580" y="-228" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-22" connectable="0" parent="ZM472__LP2MkJYghmWNF-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="调用OCR、OSS等" vertex="1">
+          <mxGeometry relative="1" x="0.0556" y="-3" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-23" edge="1" parent="1" source="ZM472__LP2MkJYghmWNF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" target="ZM472__LP2MkJYghmWNF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-24" connectable="0" parent="ZM472__LP2MkJYghmWNF-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="提供结构化数据" vertex="1">
+          <mxGeometry relative="1" x="-0.1542" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-27" edge="1" parent="1" source="ZM472__LP2MkJYghmWNF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" target="ZM472__LP2MkJYghmWNF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-28" connectable="0" parent="ZM472__LP2MkJYghmWNF-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="获取用户身份" vertex="1">
+          <mxGeometry relative="1" x="-0.0686" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-29" edge="1" parent="1" source="ZM472__LP2MkJYghmWNF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" target="ZM472__LP2MkJYghmWNF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-30" connectable="0" parent="ZM472__LP2MkJYghmWNF-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="加载要素模版" vertex="1">
+          <mxGeometry relative="1" x="0.16" y="2" as="geometry">
+            <mxPoint x="12" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-31" edge="1" parent="1" source="ZM472__LP2MkJYghmWNF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="ZM472__LP2MkJYghmWNF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZM472__LP2MkJYghmWNF-32" connectable="0" parent="ZM472__LP2MkJYghmWNF-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="调用大模型能力" vertex="1">
+          <mxGeometry relative="1" x="-0.1541" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
