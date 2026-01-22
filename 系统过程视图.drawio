@@ -7,9 +7,6 @@
         <mxCell id="-70XfCtfWQui15wbHqCO-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="调解员" vertex="1">
           <mxGeometry height="60" width="30" x="-20" y="-150" as="geometry" />
         </mxCell>
-        <mxCell id="-70XfCtfWQui15wbHqCO-74" edge="1" parent="1" source="-70XfCtfWQui15wbHqCO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-70XfCtfWQui15wbHqCO-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-70XfCtfWQui15wbHqCO-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="管理员" vertex="1">
           <mxGeometry height="60" width="30" x="362.5" y="-150" as="geometry" />
         </mxCell>
@@ -210,6 +207,9 @@
         </mxCell>
         <mxCell id="-70XfCtfWQui15wbHqCO-69" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="是否存在&lt;div&gt;新的调解记录&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="103.5" x="128" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="-70XfCtfWQui15wbHqCO-74" edge="1" parent="1" source="-70XfCtfWQui15wbHqCO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-70XfCtfWQui15wbHqCO-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
