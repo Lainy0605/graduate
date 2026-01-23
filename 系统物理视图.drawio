@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="第 1 页" id="NkdVjKcmMArKdYz2x6jl">
-    <mxGraphModel>
+    <mxGraphModel dx="1138" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="120" pageHeight="200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-2" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="前端服务器" vertex="1">
+          <mxGeometry height="120" width="150" x="-110" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-3" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="辅助办案系统前端" vertex="1">
+          <mxGeometry height="50" width="100" x="-100" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-4" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="网关服务器" vertex="1">
+          <mxGeometry height="160" width="150" x="-110" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-5" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="API gateway" vertex="1">
+          <mxGeometry height="50" width="100" x="-100" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-6" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="Nginx" vertex="1">
+          <mxGeometry height="50" width="100" x="-100" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-7" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="数据库服务器" vertex="1">
+          <mxGeometry height="100" width="150" x="-110" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-9" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="业务服务器" vertex="1">
+          <mxGeometry height="280" width="160" x="80" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-10" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="案件管理服务" vertex="1">
+          <mxGeometry height="50" width="100" x="90" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-11" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="案件分析服务" vertex="1">
+          <mxGeometry height="50" width="100" x="90" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-12" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="要素模版&lt;div&gt;管理服务&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="90" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-13" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="支撑服务" vertex="1">
+          <mxGeometry height="400" width="150" x="280" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-14" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="OpenFeign" vertex="1">
+          <mxGeometry height="50" width="100" x="290" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-15" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="OSS" vertex="1">
+          <mxGeometry height="50" width="100" x="290" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-16" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="OCR" vertex="1">
+          <mxGeometry height="50" width="100" x="290" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-17" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" value="缓存服务器" vertex="1">
+          <mxGeometry height="100" width="150" x="80" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-18" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Redis" vertex="1">
+          <mxGeometry height="60" width="75" x="115" y="492" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-19" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="PgSQL" vertex="1">
+          <mxGeometry height="60" width="75" x="-87.5" y="492" as="geometry" />
+        </mxCell>
+        <mxCell id="s-sinX7ZQbjS_9ipvfTZ-20" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="LLM" vertex="1">
+          <mxGeometry height="50" width="100" x="290" y="290" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
