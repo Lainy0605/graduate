@@ -82,7 +82,7 @@
         <mxCell id="2evvFfYoBrTgyothIbj_-20" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2evvFfYoBrTgyothIbj_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2evvFfYoBrTgyothIbj_-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2evvFfYoBrTgyothIbj_-7" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="左侧材料目录区启用，中间展示起诉状，右侧案件分析区启用" vertex="1">
+        <mxCell id="2evvFfYoBrTgyothIbj_-7" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="左侧材料目录区启用，中间材料展示区展示起诉状，右侧案件分析区启用" vertex="1">
           <mxGeometry height="60" width="120" x="-409" y="600" as="geometry" />
         </mxCell>
         <mxCell id="2evvFfYoBrTgyothIbj_-8" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="结束" vertex="1">
