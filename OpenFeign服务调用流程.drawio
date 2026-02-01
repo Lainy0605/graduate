@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T6gIEvACY-lbuXUJVS-E-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="定义接口" vertex="1">
-          <mxGeometry height="60" width="120" x="-200" y="60" as="geometry" />
+          <mxGeometry height="60" width="120" x="-200" y="100" as="geometry" />
         </mxCell>
         <mxCell id="T6gIEvACY-lbuXUJVS-E-6" edge="1" parent="1" source="T6gIEvACY-lbuXUJVS-E-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="T6gIEvACY-lbuXUJVS-E-5">
           <mxGeometry relative="1" as="geometry" />
@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T6gIEvACY-lbuXUJVS-E-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="获取Http请求&lt;div&gt;基本信息&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" y="60" as="geometry" />
+          <mxGeometry height="60" width="120" y="100" as="geometry" />
         </mxCell>
         <mxCell id="T6gIEvACY-lbuXUJVS-E-12" edge="1" parent="1" source="T6gIEvACY-lbuXUJVS-E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="T6gIEvACY-lbuXUJVS-E-8">
           <mxGeometry relative="1" as="geometry" />
@@ -35,27 +35,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T6gIEvACY-lbuXUJVS-E-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="动态代理" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="60" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="T6gIEvACY-lbuXUJVS-E-10" edge="1" parent="1" source="T6gIEvACY-lbuXUJVS-E-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="T6gIEvACY-lbuXUJVS-E-9">
+        <mxCell id="T6gIEvACY-lbuXUJVS-E-10" edge="1" parent="1" source="T6gIEvACY-lbuXUJVS-E-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="T6gIEvACY-lbuXUJVS-E-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T6gIEvACY-lbuXUJVS-E-11" connectable="0" parent="T6gIEvACY-lbuXUJVS-E-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="发起请求" vertex="1">
           <mxGeometry relative="1" x="-0.15" y="-2" as="geometry">
-            <mxPoint x="2" y="-2" as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T6gIEvACY-lbuXUJVS-E-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="构建Http请求" vertex="1">
-          <mxGeometry height="60" width="120" x="400" y="60" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="T6gIEvACY-lbuXUJVS-E-15" edge="1" parent="1" source="T6gIEvACY-lbuXUJVS-E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="T6gIEvACY-lbuXUJVS-E-14" value="类型转换">
+        <mxCell id="T6gIEvACY-lbuXUJVS-E-15" edge="1" parent="1" source="T6gIEvACY-lbuXUJVS-E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="T6gIEvACY-lbuXUJVS-E-14" value="类型转换">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T6gIEvACY-lbuXUJVS-E-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="响应" vertex="1">
-          <mxGeometry height="60" width="120" x="600" y="60" as="geometry" />
+          <mxGeometry height="60" width="120" y="240" as="geometry" />
         </mxCell>
         <mxCell id="T6gIEvACY-lbuXUJVS-E-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="返回值" vertex="1">
-          <mxGeometry height="60" width="120" x="800" y="60" as="geometry" />
+          <mxGeometry height="60" width="120" x="-200" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
