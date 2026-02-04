@@ -91,7 +91,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1ebzT6e7Q5MG-KKjx3ji" name="目录服务类引用示意图">
-    <mxGraphModel dx="1018" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="120" pageHeight="200" math="0" shadow="0">
+    <mxGraphModel dx="970" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="120" pageHeight="200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,24 +111,26 @@
         <mxCell id="9O5Wj0o9ntHzCbjKjcwq-3" edge="1" parent="1" source="9O5Wj0o9ntHzCbjKjcwq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.011;exitY=0.577;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.002;entryY=0.398;entryDx=0;entryDy=0;entryPerimeter=0;" target="9O5Wj0o9ntHzCbjKjcwq-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="449" />
-              <mxPoint x="320" y="310" />
-              <mxPoint x="50" y="310" />
+              <mxPoint x="320" y="401" />
+              <mxPoint x="320" y="290" />
+              <mxPoint x="50" y="290" />
               <mxPoint x="50" y="162" />
             </Array>
             <mxPoint x="-10" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9O5Wj0o9ntHzCbjKjcwq-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;FactorElementEntity&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- id&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- identifierId&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- templateIdentifierId&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- directoryIdentifierId&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;......&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="190" x="400" y="368" as="geometry" />
+          <mxGeometry height="140" width="190" x="400" y="320" as="geometry" />
         </mxCell>
         <mxCell id="9O5Wj0o9ntHzCbjKjcwq-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;FactorTemplateEntity&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- id&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- identifierId&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- templateName&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- caseCauseName&lt;br&gt;......&lt;/p&gt;" vertex="1">
           <mxGeometry height="130" width="190" x="400" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="9O5Wj0o9ntHzCbjKjcwq-6" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.385;entryDx=0;entryDy=0;exitX=0;exitY=0.571;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;">
+        <mxCell id="9O5Wj0o9ntHzCbjKjcwq-6" edge="1" parent="1" source="9O5Wj0o9ntHzCbjKjcwq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.385;entryDx=0;entryDy=0;exitX=0.012;exitY=0.587;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="30" y="450" />
+              <mxPoint x="92" y="402" />
+              <mxPoint x="88" y="402" />
+              <mxPoint x="30" y="403" />
               <mxPoint x="30" y="162" />
             </Array>
             <mxPoint x="90" y="449.94000000000005" as="sourcePoint" />
@@ -136,12 +138,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9O5Wj0o9ntHzCbjKjcwq-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CaseMaterialEntity&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- id&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- identifierId&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- caseId&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- directoryIdentifierId&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;......&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="190" x="90" y="368" as="geometry" />
+          <mxGeometry height="140" width="190" x="90" y="321" as="geometry" />
         </mxCell>
         <mxCell id="9O5Wj0o9ntHzCbjKjcwq-8" edge="1" parent="1" source="9O5Wj0o9ntHzCbjKjcwq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="9O5Wj0o9ntHzCbjKjcwq-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="438" />
+              <mxPoint x="350" y="390" />
               <mxPoint x="350" y="175" />
             </Array>
           </mxGeometry>
