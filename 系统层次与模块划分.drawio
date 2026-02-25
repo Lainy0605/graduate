@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.3.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.3.6" pages="2">
   <diagram name="第 1 页" id="gGx8t38EmswXI07_cle7">
     <mxGraphModel dx="1371" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="120" pageHeight="200" math="0" shadow="0">
       <root>
@@ -99,6 +99,101 @@
             <mxPoint x="-160" y="340" as="sourcePoint" />
             <mxPoint x="520" y="340" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-COUMRmyc_hiKlRIKHdW" name="第 2 页">
+    <mxGraphModel dx="1138" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="120" pageHeight="200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-4" edge="1" parent="1" source="plK3zvrXPuucJ0XjHjxZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plK3zvrXPuucJ0XjHjxZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="内网" vertex="1">
+          <mxGeometry height="60" width="100" x="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-5" edge="1" parent="1" source="plK3zvrXPuucJ0XjHjxZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="plK3zvrXPuucJ0XjHjxZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-6" connectable="0" parent="plK3zvrXPuucJ0XjHjxZ-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="导入" vertex="1">
+          <mxGeometry relative="1" x="-0.07" y="-1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-2" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="法官筛选案件" vertex="1">
+          <mxGeometry height="60" width="100" x="150" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-8" edge="1" parent="1" source="plK3zvrXPuucJ0XjHjxZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="plK3zvrXPuucJ0XjHjxZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="共享法庭系统" vertex="1">
+          <mxGeometry height="60" width="100" x="360" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-10" edge="1" parent="1" source="plK3zvrXPuucJ0XjHjxZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="plK3zvrXPuucJ0XjHjxZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-7" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="调解员&lt;div&gt;选择案件&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-12" edge="1" parent="1" source="plK3zvrXPuucJ0XjHjxZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="plK3zvrXPuucJ0XjHjxZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-13" connectable="0" parent="plK3zvrXPuucJ0XjHjxZ-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="生成" vertex="1">
+          <mxGeometry relative="1" x="0.0833" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-25" edge="1" parent="1" source="plK3zvrXPuucJ0XjHjxZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=oval;endFill=0;curved=1;dashed=1;" target="plK3zvrXPuucJ0XjHjxZ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-26" edge="1" parent="1" source="plK3zvrXPuucJ0XjHjxZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;endArrow=oval;endFill=0;dashed=1;" target="plK3zvrXPuucJ0XjHjxZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-27" edge="1" parent="1" source="plK3zvrXPuucJ0XjHjxZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=oval;endFill=0;dashed=1;curved=1;" target="plK3zvrXPuucJ0XjHjxZ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="调用LLM能力&lt;div&gt;处理案件信息&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="140" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-17" edge="1" parent="1" source="plK3zvrXPuucJ0XjHjxZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="plK3zvrXPuucJ0XjHjxZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-19" edge="1" parent="1" source="plK3zvrXPuucJ0XjHjxZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="plK3zvrXPuucJ0XjHjxZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="案件分析报告" vertex="1">
+          <mxGeometry height="60" width="100" x="-80" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="调解员调解失败" vertex="1">
+          <mxGeometry height="60" width="100" x="-80" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-15" edge="1" parent="1" source="plK3zvrXPuucJ0XjHjxZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="plK3zvrXPuucJ0XjHjxZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-16" connectable="0" parent="plK3zvrXPuucJ0XjHjxZ-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="汇总材料回流" vertex="1">
+          <mxGeometry relative="1" x="-0.1" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="调解员调解成功" vertex="1">
+          <mxGeometry height="60" width="100" x="-80" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-20" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="结束" vertex="1">
+          <mxGeometry height="70" width="100" x="140" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-21" edge="1" parent="1" source="plK3zvrXPuucJ0XjHjxZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="plK3zvrXPuucJ0XjHjxZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-22" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="事实归&lt;div&gt;纳总结&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="90" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-23" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="法条类&lt;div&gt;案推送&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="160" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="plK3zvrXPuucJ0XjHjxZ-24" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="争议焦&lt;div&gt;点总结&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="230" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
