@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
+  <diagram name="第 1 页" id="hz7vTwbkouGld9bQeeZo">
+    <mxGraphModel dx="1251" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="120" pageHeight="200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="调解员" vertex="1">
+          <mxGeometry height="60" width="30" x="-6.25" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="管理员" vertex="1">
+          <mxGeometry height="60" width="30" x="268.75" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="137.5" x="212.5" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="要素模版模块" vertex="1">
+          <mxGeometry height="30" width="75" x="246.25" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="获取案由列表" vertex="1">
+          <mxGeometry height="30" width="80" x="241.25" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="要素模版管理" vertex="1">
+          <mxGeometry height="30" width="80" x="241.25" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="用户权限管理" vertex="1">
+          <mxGeometry height="30" width="80" x="241.25" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="要素模版校验" vertex="1">
+          <mxGeometry height="30" width="80" x="241.25" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="327.5" x="22.5" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="支撑服务" vertex="1">
+          <mxGeometry height="30" width="75" x="155" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="大模型接口调用" vertex="1">
+          <mxGeometry height="30" width="91.25" x="45.629999999999995" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="文本识别服务" vertex="1">
+          <mxGeometry height="30" width="91.25" x="209" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="对象存储服务" vertex="1">
+          <mxGeometry height="30" width="91.25" x="45.629999999999995" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="向量数据库" vertex="1">
+          <mxGeometry height="30" width="91.25" x="209" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="137.5" x="-60.00000000000001" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="案件管理" vertex="1">
+          <mxGeometry height="30" width="75" x="-26.250000000000007" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="材料结构化" vertex="1">
+          <mxGeometry height="30" width="80" x="-31.250000000000007" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="案件筛选" vertex="1">
+          <mxGeometry height="30" width="80" x="-31.250000000000007" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="案件材料同步" vertex="1">
+          <mxGeometry height="30" width="80" x="-31.250000000000007" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="智能编目" vertex="1">
+          <mxGeometry height="30" width="80" x="-31.250000000000007" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="137.5" x="75" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="案件管理" vertex="1">
+          <mxGeometry height="30" width="75" x="108.75" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="材料结构化" vertex="1">
+          <mxGeometry height="30" width="80" x="103.75" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="案件筛选" vertex="1">
+          <mxGeometry height="30" width="80" x="103.75" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="案件材料同步" vertex="1">
+          <mxGeometry height="30" width="80" x="103.75" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rf_4D9oLN7ZsXjkHoaQU-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="智能编目" vertex="1">
+          <mxGeometry height="30" width="80" x="103.75" y="390" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
