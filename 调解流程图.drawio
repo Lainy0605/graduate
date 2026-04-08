@@ -1,9 +1,108 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Jv-6_HRLxII0pPLxlJSu">
-    <mxGraphModel>
+    <mxGraphModel dx="1461" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="120" pageHeight="200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-10" edge="1" parent="1" source="qU-zUARJSuXfcnyWVLnk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="qU-zUARJSuXfcnyWVLnk-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="39.99999999999977" y="110" as="sourcePoint" />
+            <mxPoint x="174.95000000000005" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-11" edge="1" parent="1" source="qU-zUARJSuXfcnyWVLnk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="qU-zUARJSuXfcnyWVLnk-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275.04999999999995" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-12" connectable="0" parent="qU-zUARJSuXfcnyWVLnk-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" value="导入" vertex="1">
+          <mxGeometry relative="1" x="-0.1365" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-13" edge="1" parent="1" source="qU-zUARJSuXfcnyWVLnk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" target="qU-zUARJSuXfcnyWVLnk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" value="共享法庭系统" vertex="1">
+          <mxGeometry height="90" width="150" x="440" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-15" edge="1" parent="1" source="qU-zUARJSuXfcnyWVLnk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="qU-zUARJSuXfcnyWVLnk-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="370" as="sourcePoint" />
+            <mxPoint x="-10" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" value="结束" vertex="1">
+          <mxGeometry height="100" width="120" x="190" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-17" edge="1" parent="1" source="qU-zUARJSuXfcnyWVLnk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" target="qU-zUARJSuXfcnyWVLnk-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="42.5" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-30" edge="1" parent="1" source="qU-zUARJSuXfcnyWVLnk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;dashed=1;endArrow=oval;endFill=0;" target="qU-zUARJSuXfcnyWVLnk-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-31" edge="1" parent="1" source="qU-zUARJSuXfcnyWVLnk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=oval;endFill=0;curved=1;dashed=1;" target="qU-zUARJSuXfcnyWVLnk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-32" edge="1" parent="1" source="qU-zUARJSuXfcnyWVLnk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;curved=1;dashed=1;" target="qU-zUARJSuXfcnyWVLnk-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" value="调用LLM能力&lt;div&gt;处理案件信息&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="190" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-18" edge="1" parent="1" source="qU-zUARJSuXfcnyWVLnk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" target="qU-zUARJSuXfcnyWVLnk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-9" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=18;" value="调解员选择案件" vertex="1">
+          <mxGeometry height="70" width="175" x="427.5" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-14" edge="1" parent="1" source="qU-zUARJSuXfcnyWVLnk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10.000000000000227" y="230" as="sourcePoint" />
+            <mxPoint x="-10" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-20" connectable="0" parent="qU-zUARJSuXfcnyWVLnk-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" value="汇总材料回流" vertex="1">
+          <mxGeometry relative="1" x="0.1333" y="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-19" edge="1" parent="1" source="qU-zUARJSuXfcnyWVLnk-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="qU-zUARJSuXfcnyWVLnk-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="42.5" y="690" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" value="事实归纳总结" vertex="1">
+          <mxGeometry height="70" width="80" x="120" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-22" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=18;" value="法官筛选案件" vertex="1">
+          <mxGeometry height="70" width="175" x="162.5" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-25" edge="1" parent="1" source="qU-zUARJSuXfcnyWVLnk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qU-zUARJSuXfcnyWVLnk-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" value="案件分析报告" vertex="1">
+          <mxGeometry height="90" width="140" x="-80" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" value="调解员调解失败" vertex="1">
+          <mxGeometry height="90" width="140" x="-80" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" value="法条类案推送" vertex="1">
+          <mxGeometry height="70" width="80" x="220" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" value="争议焦点总结" vertex="1">
+          <mxGeometry height="70" width="80" x="320" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-29" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" value="内网" vertex="1">
+          <mxGeometry height="90" width="150" x="-90" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="qU-zUARJSuXfcnyWVLnk-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" value="调解员调解成功" vertex="1">
+          <mxGeometry height="90" width="140" x="-80" y="650" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
