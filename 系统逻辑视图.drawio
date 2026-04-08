@@ -24,7 +24,7 @@
           <mxGeometry height="80" width="160" x="410" y="-15" as="geometry" />
         </mxCell>
         <mxCell id="ZM472__LP2MkJYghmWNF-7" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;" value="案件管理模块" vertex="1">
-          <mxGeometry height="80" width="150" x="430" y="-170" as="geometry" />
+          <mxGeometry height="80" width="170" x="410" y="-170" as="geometry" />
         </mxCell>
         <mxCell id="ZM472__LP2MkJYghmWNF-8" edge="1" parent="1" source="ZM472__LP2MkJYghmWNF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=18;" target="ZM472__LP2MkJYghmWNF-2">
           <mxGeometry relative="1" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry height="80" width="130" x="740" y="-30" as="geometry" />
         </mxCell>
         <mxCell id="ZM472__LP2MkJYghmWNF-20" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=light-dark(#e2e2e2, #ededed);fontSize=18;" value="第三方服务" vertex="1">
-          <mxGeometry height="80" width="140" x="670" y="-300" as="geometry" />
+          <mxGeometry height="80" width="140" x="680" y="-300" as="geometry" />
         </mxCell>
         <mxCell id="ZM472__LP2MkJYghmWNF-21" edge="1" parent="1" source="ZM472__LP2MkJYghmWNF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.88;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=18;" target="ZM472__LP2MkJYghmWNF-20">
           <mxGeometry relative="1" as="geometry">
@@ -53,7 +53,7 @@
         </mxCell>
         <mxCell id="ZM472__LP2MkJYghmWNF-22" connectable="0" parent="ZM472__LP2MkJYghmWNF-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" value="调用OCR、OSS等" vertex="1">
           <mxGeometry relative="1" x="0.0556" y="-3" as="geometry">
-            <mxPoint x="32" y="15" as="offset" />
+            <mxPoint x="7" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZM472__LP2MkJYghmWNF-23" edge="1" parent="1" source="ZM472__LP2MkJYghmWNF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;fontSize=18;" target="ZM472__LP2MkJYghmWNF-4">
