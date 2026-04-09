@@ -20,7 +20,7 @@
           <mxGeometry height="50" width="100" x="-100" y="390" as="geometry" />
         </mxCell>
         <mxCell id="s-sinX7ZQbjS_9ipvfTZ-7" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fontSize=18;" value="数据库服务器" vertex="1">
-          <mxGeometry height="100" width="150" x="-110" y="460" as="geometry" />
+          <mxGeometry height="110" width="150" x="-110" y="460" as="geometry" />
         </mxCell>
         <mxCell id="s-sinX7ZQbjS_9ipvfTZ-9" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fontSize=18;" value="业务服务器" vertex="1">
           <mxGeometry height="280" width="160" x="80" y="160" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry height="50" width="100" x="90" y="350" as="geometry" />
         </mxCell>
         <mxCell id="s-sinX7ZQbjS_9ipvfTZ-13" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fontSize=18;" value="支撑服务" vertex="1">
-          <mxGeometry height="400" width="150" x="280" y="160" as="geometry" />
+          <mxGeometry height="410" width="150" x="280" y="160" as="geometry" />
         </mxCell>
         <mxCell id="s-sinX7ZQbjS_9ipvfTZ-14" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=18;" value="OpenFeign" vertex="1">
           <mxGeometry height="50" width="120" x="290" y="210" as="geometry" />
@@ -47,13 +47,13 @@
           <mxGeometry height="50" width="120" x="290" y="460" as="geometry" />
         </mxCell>
         <mxCell id="s-sinX7ZQbjS_9ipvfTZ-17" parent="1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fontSize=18;" value="缓存服务器" vertex="1">
-          <mxGeometry height="100" width="150" x="80" y="460" as="geometry" />
+          <mxGeometry height="110" width="150" x="80" y="460" as="geometry" />
         </mxCell>
         <mxCell id="s-sinX7ZQbjS_9ipvfTZ-18" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" value="Redis" vertex="1">
-          <mxGeometry height="60" width="75" x="115" y="492" as="geometry" />
+          <mxGeometry height="60" width="75" x="115" y="500" as="geometry" />
         </mxCell>
         <mxCell id="s-sinX7ZQbjS_9ipvfTZ-19" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" value="PgSQL" vertex="1">
-          <mxGeometry height="60" width="75" x="-87.5" y="492" as="geometry" />
+          <mxGeometry height="60" width="75" x="-87.5" y="500" as="geometry" />
         </mxCell>
         <mxCell id="s-sinX7ZQbjS_9ipvfTZ-20" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=18;" value="LLM" vertex="1">
           <mxGeometry height="50" width="120" x="290" y="290" as="geometry" />
